@@ -1,0 +1,7 @@
+.grid > li {
+  list-style-type: none;
+  width: 300px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-auto-rows: 20px;
+}

@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Myriad Pro';
+}
+
+.grid {
+  font-size: 34px;
+  color: #D0011B;
+}
+
+.grid > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 20px;
+  background-color: #979797;
+}
