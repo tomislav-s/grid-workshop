@@ -1,0 +1,61 @@
+.grid {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.grid-item {
+  position: relative;
+  color: white;
+}
+
+.banner {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+}
+
+.banner {
+  background-color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+}
+
+.logo {
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.time {
+  background-color: #6041B0;
+}
+
+.eugen {
+  background-color: #E25241;
+}
+
+.bugsnag {
+  background-color: #419488;
+}
+
+.frontend-cookies {
+  background-color: #3477CB;
+}
+
+.code-climate {
+  background-color: #647B88;
+}
+
+.service-status {
+  background-color: #FDEC60;
+}
+
+.team {
+  background-color: #E68131;
+}
+
+.graph {
+  background-color: #67AC5B;
+}
