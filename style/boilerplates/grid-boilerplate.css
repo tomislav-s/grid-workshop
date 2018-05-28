@@ -3,12 +3,13 @@
 }
 
 body {
-  font-family: 'Myriad Pro';
+  font-family: 'Helvetica', sans-serif;
 }
 
 .grid {
-  font-size: 34px;
-  color: #D0011B;
+  font-size: 42px;
+  font-weight: bold;
+  color: #FFFFFF;
 }
 
 .grid > div {
