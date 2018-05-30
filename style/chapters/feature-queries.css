@@ -10,11 +10,9 @@
   height: 250px;
 } */
 
-@supports (display: grid) {
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: 250px;
-    grid-gap: 20px;
-  }
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: 250px;
+  grid-gap: 20px;
 }
