@@ -3,12 +3,13 @@
 }
 
 body {
-  font-family: 'Myriad Pro';
+  font-family: Helvetica, sans-serif;
 }
 
 .layout {
-  font-size: 34px;
-  color: #D0011B;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
   height: 100%;
 }
 
